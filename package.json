@@ -1,0 +1,19 @@
+{
+  "name": "lc79-auto",
+  "version": "1.0.0",
+  "description": "LC79 Auto API",
+  "main": "apilc79auto.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node apilc79auto.js",
+    "dev": "node apilc79auto.js"
+  },
+  "keywords": [
+    "lc79",
+    "auto",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
